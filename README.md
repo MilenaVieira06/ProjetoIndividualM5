@@ -1,7 +1,11 @@
 Projeto individual MD5💾
 
+
+
 O QUE É PARA FAZER?🔧
 ProjetoIndividualMD5
+
+
 
 Vamos usar o Node para montar um código que receberá uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e retornará essa lista ordenada de AZ. Ordenar o CSS ajuda a encontrar mais rapidamente a propriedade que precisamos alterar.
 
@@ -9,6 +13,7 @@ Vamos usar o Node para montar um código que receberá uma lista de propriedades
 
 
 Dependências🛒
+
 
 
 readlineSync Execução interativa para conversar com o usuário por meio de um console.
@@ -22,4 +27,30 @@ Instruções para executar o programa💻
 
 Clone o projeto
 
-git clone
+
+git clone https://github.com/MilenaVieira06/ProjetoIndividualM5.git
+
+
+
+
+Entre no diretório do projeto
+
+
+cd projetoindividualm5
+
+
+
+
+Instale as dependências
+
+
+npm i readline-sync
+npm i chalk
+
+
+
+
+Abra o terminal e digite
+
+
+node ./index.js
