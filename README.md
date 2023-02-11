@@ -2,8 +2,12 @@ Projeto individual MD5💾
 
 
 
+
+
 O QUE É PARA FAZER?🔧
 ProjetoIndividualMD5
+
+
 
 
 
@@ -16,9 +20,15 @@ Dependências🛒
 
 
 
+
+
+
 readlineSync Execução interativa para conversar com o usuário por meio de um console.
 
 giz É usado para estilizar o formato do texto e nos permite criar nossos próprios temas no projeto node.js
+
+
+
 
 
 
@@ -28,7 +38,11 @@ Instruções para executar o programa💻
 Clone o projeto
 
 
+
+
 git clone https://github.com/MilenaVieira06/ProjetoIndividualM5.git
+
+
 
 
 
@@ -36,12 +50,20 @@ git clone https://github.com/MilenaVieira06/ProjetoIndividualM5.git
 Entre no diretório do projeto
 
 
-cd projetoindividualm5
+
+
+
+cd projetoindividualM5
+
+
 
 
 
 
 Instale as dependências
+
+
+
 
 
 npm i readline-sync
@@ -50,7 +72,13 @@ npm i chalk
 
 
 
+
+
+
 Abra o terminal e digite
+
+
+
 
 
 node ./index.js
