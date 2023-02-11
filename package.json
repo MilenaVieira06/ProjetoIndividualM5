@@ -1,0 +1,24 @@
+{
+  "name": "projetoindividualm5",
+  "version": "1.0.0",
+  "description": "Projeto Individual M5",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilenaVieira06/ProjetoIndividualM5.git"
+  },
+  "author": "Milena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilenaVieira06/ProjetoIndividualM5/issues"
+  },
+  "homepage": "https://github.com/MilenaVieira06/ProjetoIndividualM5#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
