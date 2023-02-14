@@ -16,7 +16,7 @@ Vamos usar o Node para montar um código que receberá uma lista de propriedades
 
 
 
-Dependências🛒
+DEPENDÊNCIAS 🛒
 
 
 
@@ -33,9 +33,9 @@ giz É usado para estilizar o formato do texto e nos permite criar nossos própr
 
 
 
-Instruções para executar o programa💻
+INSTRUÇÕES PARA EXECUTAR O PROGRAMA 💻
 
-Clone o projeto
+CLONE O PROJETO
 
 
 
@@ -47,7 +47,7 @@ git clone https://github.com/MilenaVieira06/ProjetoIndividualM5.git
 
 
 
-Entre no diretório do projeto
+ENTRE NO DIRETÓRIO DO PROJETO
 
 
 
@@ -60,7 +60,7 @@ cd projetoindividualM5
 
 
 
-Instale as dependências
+INSTALE AS DEPENDÊNCIAS
 
 
 
@@ -75,7 +75,7 @@ npm i chalk
 
 
 
-Abra o terminal e digite
+ABRA O TERMINAL E DIGITE
 
 
 
